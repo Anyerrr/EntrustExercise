@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EntrustExercise:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EntrustExercise_jar</output-path>
+    <root id="archive" name="EntrustExercise.jar">
+      <element id="module-output" name="EntrustExercise" />
+    </root>
+  </artifact>
+</component>
