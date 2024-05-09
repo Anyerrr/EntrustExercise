@@ -10,4 +10,4 @@ To run the application, you have two options:
    Alternatively, you can run the application using the JAR file by executing:
    make runJar
 
-The paginated document will also be saved in the 'out' folder, which is created durint compilation.
+The paginated document will be saved in the 'out' folder, which is created durint compilation.
