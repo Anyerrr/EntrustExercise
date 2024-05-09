@@ -9,3 +9,5 @@ To run the application, you have two options:
 2. **Running the application with the JAR file:**  
    Alternatively, you can run the application using the JAR file by executing:
    make runJar
+
+The paginated document will also be saved in the 'out' folder, which is created durint compilation.
