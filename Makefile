@@ -13,7 +13,7 @@ run: compile
 	java -cp $(BUILD_DIR) $(MAIN_CLASS)
 
 # Create the JAR file
-jar:
+jar: compile
 	jar cfe $(JAR_FILE) $(MAIN_CLASS) -C $(BUILD_DIR) .
 
 # Execute the application from the JAR file
